@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DatabaseAssignment</string>
+    <string name="title_activity_patient">PatientActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+</resources>
